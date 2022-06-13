@@ -1,0 +1,12 @@
+.image-size {
+  width: 50%;
+  height: 30vh;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.background {
+  background-color: rgb(209, 227, 242);
+}
